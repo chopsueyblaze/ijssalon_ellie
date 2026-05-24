@@ -1,4 +1,3 @@
-
 def decoreer(tekst=""):
     lengte = len(tekst) + 4
     print()
